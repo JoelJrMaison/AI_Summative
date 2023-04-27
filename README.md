@@ -33,6 +33,6 @@ The model is deployed on streamlit cloud. And it is accessible on https://joeljr
 Refer to this link: https://drive.google.com/file/d/1QvO3RCTNC3x8EriWGd2L0w0bM-uVjUzl/view?usp=sharing
 
 Contributors
-- Joel Maison 33%
 - Aimar Cyusa Muhirwa 33%
 - Raissa Kinkoh 33%
+- Joel Maison 33%
