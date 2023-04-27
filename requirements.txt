@@ -1,0 +1,6 @@
+opencv-python-headless
+numpy
+pillow
+tensorflow
+pip
+protobuf>=3.20.3,<5.0.0dev
