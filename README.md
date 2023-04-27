@@ -1,7 +1,11 @@
 # AI_Summative
 Summative for the AI course done by Aimar Cyusa, Raissa Kinkoh and Joel Maison
 
-This repo contain a model for an a web application that predicts whether the person is diabetic or not diabetic based on their medical history
+This repo contain a model for an a web application that predicts the traffic sign of an advanced driver assistance system (ADAS)
+
+# **Project Proposal for the traffic sign recognition system**
+Please refer to this link:
+https://docs.google.com/document/d/1gibD_jadOfKjlYzhdCJ_zr0Ajm_kcm0bAb45rvncA2U/edit
 
 Refer to this colab for details on our model and a quick summary of the dataset.
 https://colab.research.google.com/drive/1LH44aSRRkY-m1DGa63Xz-KhhB0rf2Jv-
