@@ -27,6 +27,6 @@ The model is deployed on streamlit cloud. And it is accessible on https://joeljr
 
 Refer to this link: for the video work-through
 Contributors
-Joel Maison 33%
-Aimar Cyusa Muhirwa 33%
-Raissa Kinkoh 33%
+- Joel Maison 33%
+- Aimar Cyusa Muhirwa 33%
+- Raissa Kinkoh 33%

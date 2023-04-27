@@ -54,6 +54,7 @@ class_dict = {
 }  # Replace {...} with a dictionary mapping class indices to class names
 
 st.title("Traffic Sign Recognition Web App")
+st.write("This is to test traffic sign recognition for Advanced Driver Assistance Systems (ADAS) ")
 
 uploaded_file = st.file_uploader("Choose an image...", type=["jpg", "png", "jpeg", "gif"] )
 
